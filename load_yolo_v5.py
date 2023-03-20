@@ -13,3 +13,5 @@ results = model(img)
 # results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 
 results.show()
+
+

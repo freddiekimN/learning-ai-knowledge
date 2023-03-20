@@ -29,4 +29,10 @@ python3 detect.py --weight yolov5s.pt --source https://www.youtube.com/watch?v=l
 ~~~
 
 참고하면 좋은 사이트<br>
-https://yhkim4504.tistory.com/13
+https://yhkim4504.tistory.com/
+
+coco dataset
+https://cocodataset.org/#download
+
+
+curl -L "https://universe.roboflow.com/ds/qcv8WsT2ts?key=BDJ1Feb6ss" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
